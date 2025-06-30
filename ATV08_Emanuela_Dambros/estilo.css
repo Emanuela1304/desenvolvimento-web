@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.cabeçalho {
+
+    background-color: #f0c040;
+    padding: 60px;
+
+}
+
+.menu {
+
+    background-color: #80e0ec;
+    width: 25%;
+    float: left;
+    height: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.conteudo {
+
+    background-color: #e77474;
+    width: 75%;
+    float: left;
+    height: 400px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.rodape {
+     
+    clear: both;
+    background-color: #106e2f;
+    padding: 38px;
+    
+}
